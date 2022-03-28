@@ -81,6 +81,11 @@ This is a code block
 cd path/to/some/folder
 ```
 
+## Images
+
+![tim-gouw-1K9T5YiZ2WU-unsplash 1](https://user-images.githubusercontent.com/1148334/160429713-76492734-c28a-439c-b6c1-a5a7c709c0a8.jpg)
+
+![alt text](https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80)
 
 Just a test
 
