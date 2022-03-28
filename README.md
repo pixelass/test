@@ -33,7 +33,14 @@
    1. Item 3.ii 
 
 
+## Bold & italic
 
+*italic/cursive/emphasis*
+
+**bold/strong**
+
+_italic_
+__bold__
 
 
 Just a test
