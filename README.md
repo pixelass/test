@@ -18,6 +18,22 @@
 - Item 1
 - Item 2
 
+## Ordered Lists
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+### Ordered Lists (simple)
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3.i
+   1. Item 3.ii 
+
+
+
 
 
 Just a test
