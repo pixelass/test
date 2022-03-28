@@ -42,5 +42,9 @@
 _italic_
 __bold__
 
+## Strike
+
+~Strike~
+
 
 Just a test
