@@ -46,5 +46,20 @@ __bold__
 
 ~Strike~
 
+## Links
+
+[title of the link](https://www.neuefische.de)
+
+[neuefische][neuefische]
+
+[neuefische][neuefische] ist toll
+
+
+
 
 Just a test
+
+[neuefische]: https://www.neuefische.de
+[google]: https://www.google.com
+
+
