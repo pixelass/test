@@ -87,6 +87,17 @@ cd path/to/some/folder
 
 ![alt text](https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80)
 
+## Tables
+
+| foo   | bar | baz |
+| ----- | --- | --- |
+| Hello | Git | Hub |
+
+
+| foo   | bar | baz |
+| :---- | --- | --: |
+| Hello | Git | Hub !! |
+
 Just a test
 
 [neuefische]: https://www.neuefische.de
